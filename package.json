@@ -1,0 +1,20 @@
+{
+  "name": "fotos-nasa",
+  "version": "1.0.0",
+  "description": "Exibe fotos do APOD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "APOD",
+    "JSON"
+  ],
+  "author": "Ítalo Costa",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "got": "^11.8.1",
+    "terminal-image": "^1.2.1"
+  }
+}
